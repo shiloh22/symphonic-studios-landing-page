@@ -36,3 +36,28 @@ body {
     height: auto;
 }
 
+.bg-image-drum {
+    background-image: url(../imgs/drums.jpg);
+    background-repeat: no-repeat;
+   
+    background-size: 30%;
+    background-position: center right;
+
+}
+
+.bg-image-mic {
+    background-image: url(../imgs/4.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: center top;
+    
+    
+}
+
+/* .bg-image {
+    background-image: url(../imgs/5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+} */
